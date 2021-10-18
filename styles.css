@@ -104,6 +104,10 @@ button {
     background-color: #3882f6;
 }
 
+button:hover {
+    background-color: #5391f5;
+}
+
 .square-outer {
     background-color: darkblue;
     width: 200px;
